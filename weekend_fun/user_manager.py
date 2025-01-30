@@ -1,8 +1,8 @@
-from typing import Union
+from typing import Any
 import json
 
 
-def get_user_info() -> dict[str, Union[str, list[str]]]:
+def get_user_info() -> dict[str, Any]:
     try:
         with open("data/user_info.json", "r") as f:
             user_info = json.load(f)

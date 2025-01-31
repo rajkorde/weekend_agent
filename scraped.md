@@ -4,36 +4,35 @@ URL Source: https://www.events12.com/seattle/?Authorization=Bearer+jina_a7608ba1
 
 Markdown Content:
 Seattle events January 2025
+---------------------------
 
----
+concerts
+--------
 
-## concerts
-
-| Concerts                                                       |
-| -------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------ |
-| ![Image 60: concerts](https://www.events12.com/img/100000.jpg) |
-| Jan. 29                                                        | [Bryce Vine](https://www.showboxpresents.com/events/detail/765900)        | Showbox      |
-| Jan. 30                                                        | [Gallant](https://stubhub.prf.hn/l/xEBJbpD/)                              | Showbox      |
-| Jan. 30 - 2                                                    | [Mindy Abair](https://www.jazzalley.com/www-home/artist.jsp?shownum=7609) | Jazz Alley   |
-| Jan. 31                                                        | [Eric Bellinger](https://www.showboxpresents.com/events/detail/715203)    | Showbox      |
-| Jan. 31 - 1                                                    | [L'Impératrice](https://stubhub.prf.hn/l/mVBJE3v/)                        | Showbox SoDo |
-| [more concerts](https://stubhub.prf.hn/l/vwBY3LG/)             |
+| Concerts |
+| --- |
+| ![Image 58: concerts](https://www.events12.com/img/100000.jpg) |
+| Jan. 30 | [Gallant](https://stubhub.prf.hn/l/xEBJbpD/) | Showbox |
+| Jan. 30 - 2 | [Mindy Abair](https://www.jazzalley.com/www-home/artist.jsp?shownum=7609) | Jazz Alley |
+| Jan. 31 | [Eric Bellinger](https://www.showboxpresents.com/events/detail/715203) | Showbox |
+| Jan. 31 - 1 | [L'Impératrice](https://stubhub.prf.hn/l/mVBJE3v/) | Showbox SoDo |
+| [more concerts](https://stubhub.prf.hn/l/vwBY3LG/) |
 
 ### Polar bear plunge
 
 January 1, 2025
 
-multiple locations ![Image 61](https://www.events12.com/img/119088.jpg)
+multiple locations ![Image 59](https://www.events12.com/img/119088.jpg)
 
 Run or jump into cold water to celebrate the new year. Some have fees or limited parking.
 
-- Alki Beach — [2527 Alki Ave SW](https://westseattleblog.com/2024/12/reminder-alki-beach-polar-bear-swim-is-on-for-new-years-day-2025/)
-- Burien — [17200 Maplewild Ave SW](https://b-townblog.com/event/three-tree-point-polar-bear-plunge-will-be-new-years-day-2/)
-- Issaquah — [Lake Sammamish State Park](https://parks.wa.gov/find-activity/event-calendar/2025/jan/lake-sammamish-polar-plunge)
-- Normandy Park — [N.P. Community Club](https://www.facebook.com/events/500206769657366)
-- Renton — [Coulon Park or Aquatic Center](https://www.rentonwa.gov/workspaces/one.aspx?objectId=20440214&contextId=8146508)
-- Seattle — [Matthews Beach Park](https://parkways.seattle.gov/2024/12/19/polar-bear-plunge-new-years-2025/)
-- Tacoma — [Point Defiance Marina](https://www.parkstacoma.gov/event/2025-polar-plunge/)
+*   Alki Beach — [2527 Alki Ave SW](https://westseattleblog.com/2024/12/reminder-alki-beach-polar-bear-swim-is-on-for-new-years-day-2025/)
+*   Burien — [17200 Maplewild Ave SW](https://b-townblog.com/event/three-tree-point-polar-bear-plunge-will-be-new-years-day-2/)
+*   Issaquah — [Lake Sammamish State Park](https://parks.wa.gov/find-activity/event-calendar/2025/jan/lake-sammamish-polar-plunge)
+*   Normandy Park — [N.P. Community Club](https://www.facebook.com/events/500206769657366)
+*   Renton — [Coulon Park or Aquatic Center](https://www.facebook.com/events/1245189523429257)
+*   Seattle — [Matthews Beach Park](https://parkways.seattle.gov/2024/12/19/polar-bear-plunge-new-years-2025/)
+*   Tacoma — [Point Defiance Marina](https://www.parkstacoma.gov/event/2025-polar-plunge/)
 
 [video](https://www.youtube.com/watch?v=JFSX725aEdo)
 
@@ -41,7 +40,7 @@ Run or jump into cold water to celebrate the new year. Some have fees or limited
 
 January 1, 2025 (9 a.m. to 9 p.m.)
 
-Downtown (0.2 miles SE) ![Image 62](https://www.events12.com/img/107166g.jpg)
+Downtown (0.2 miles SE) ![Image 60](https://www.events12.com/img/107166g.jpg)
 
 See four displays made mostly of food at [Gingerbread Village](https://www.breakthrought1d.org/pacificnorthwest/events/30th-annual-sheraton-grand-seattle-gingerbread-village/) in Sheraton Grand Seattle, 1400 6th Ave. Open 9 a.m. to 9 p.m., extended to 11 p.m. on Friday and Saturday. Donation box. The theme changes every year.
 
@@ -119,7 +118,7 @@ Buy a ticket online, and then drive two miles past “300 illuminated holiday di
 
 January 1 - Dec. 31, 2025
 
-Tulalip (36 miles N) ![Image 63](https://www.events12.com/img/119563.jpg)
+Tulalip (36 miles N) ![Image 61](https://www.events12.com/img/119563.jpg)
 
 [Tulalip Lights & Ice](https://www.quilcedavillage.com/TulalipLightsAndIce) has 7.8 million lights on plants surrounding the casino entrance ponds and the Tulalip Amphitheater at 10400 34th Ave. NE in Tulalip. Ice skating, food for sale, and a beer garden.
 
@@ -135,23 +134,6 @@ Bundle up to admire a million holiday lights and displays at [Zoolights](https:/
 
 [map](https://maps.apple.com/maps/?address=Point%20Defiance%20Zoo%2C%205400%20N%20Pearl%20St%2C%20Tacoma%2C%20WA%2098407) [grounds map](https://www.pdza.org/wp-content/uploads/2023/05/PDZA_Zoolights-Map-24_v2web-scaled.jpg) [photos](https://www.facebook.com/PtDefianceZoo/posts/pfbid02WqtddQQRaLiD6LfUznTdjdkTprWVMxQw8sVCTjdVCkBgE8coshUvCCvrxqBEQv9hl) [video](https://www.youtube.com/watch?v=Ki-QOiyf0fo)
 
-### Museum day  FREE
-
-January 2, 2025
-
-Seattle & Tacoma
-
-The first Thursday of the month is free.
-
-- [Burke Museum of Natural History and Culture](https://www.burkemuseum.org/tickets?date=2025-01-02), U.W. campus (10 a.m. to 8 p.m.). Reserve an entry time.
-- [Museum of History & Industry](https://3365.blackbaudhosting.com/3365/page.aspx?pid=196&tab=2&txobjid=b6d2a73c-015a-469c-ae5b-83e7065e3711) at South Lake Union (5 to 8 p.m.).
-- [Museum of Flight](https://www.museumofflight.org/visit/free-first-thursdays) at 9404 E Marginal Way S in Seattle (5 to 9 p.m.).
-- [Nordic Museum](https://nordicmuseum.org/events/free-first-thursday) in Ballard (10 a.m. to 8 p.m.).
-- [Seattle Art Museum](https://www.seattleartmuseum.org/whats-on/events/free-first-thursday-seattle-art-museum-jan-2) (10 a.m. to 8 p.m.).
-- [Seattle Asian Art Museum](https://www.seattleartmuseum.org/whats-on/events/free-first-thursday-seattle-asian-art-museum-jan-2) at Volunteer Park (10 a.m. to 5 p.m.).
-- [Tacoma Art Museum](https://www.tacomaartmuseum.org/events-info/neighborhood-nights/) (5 to 8 p.m.).
-- [Volunteer Park Conservatory](https://www.volunteerparkconservatory.org/calendar/free-first-thursdays-1) \[greenhouse\] (10 a.m. to 4 p.m.).
-
 ### Zoo lights for adults
 
 January 2, 2025 (4 to 9 p.m.)
@@ -166,7 +148,7 @@ See WildLanterns’ amazing luminary displays, have animal encounters, and visit
 
 January 2 - 5, 2025
 
-Downtown (0.2 miles NE) ![Image 64](https://www.events12.com/img/118538.jpg)
+Downtown (0.2 miles NE) ![Image 62](https://www.events12.com/img/118538.jpg)
 
 Enjoy furry costumes, art vendors, games, panel discussions, and a masquerade dance at [Anthro Northwest](https://www.anthronw.com/anw7/) at Hyatt Regency Seattle, 808 Howell St. in Seattle. See [minors policy](https://www.anthronw.com/anw6/register/minors.html) if younger than age 18.
 
@@ -196,7 +178,7 @@ Get help for your home and garden at [Puyallup Home & Garden Show](http://www.pu
 
 January 3 - 19, 2025 (4 to 9 p.m.)
 
-Phinney Ridge (4.1 miles N) ![Image 65](https://www.events12.com/img/102343a.jpg)
+Phinney Ridge (4.1 miles N) ![Image 63](https://www.events12.com/img/102343a.jpg)
 
 [WildLanterns](https://www.zoo.org/wildlanterns) features “large-scale animal and nature scape lanterns representing wild places from around the globe” including bugs, lions, pandas, parrots, and dragons, with snacks for sale and a performance in the entrance building at Woodland Park Zoo, 5500 Phinney Ave. N in Seattle. See closed dates.
 
@@ -256,7 +238,7 @@ Belltown (0.5 miles NW)
 
 January 11 - 12, 2025
 
-Downtown (0.2 miles SE) ![Image 66](https://www.events12.com/img/115910.jpg)
+Downtown (0.2 miles SE) ![Image 64](https://www.events12.com/img/115910.jpg)
 
 A ticket to [The Sound of Music](https://www.5thavenue.org/shows/2024-25/sound-of-music/) film starring Julie Andrews includes “a tote bag filled with interactive surprises,” attendees in costume, pre-movie trivia, and subtitles on screen so you can sing along at The 5th Avenue Theatre, 1308 5th Ave. in Seattle.
 
@@ -326,7 +308,7 @@ University District (4.6 miles NE)
 
 January 17 - 19, 2025 (6:30 p.m.)
 
-Tacoma (33 miles S) ![Image 67](https://www.events12.com/img/100008.jpg)
+Tacoma (33 miles S) ![Image 65](https://www.events12.com/img/100008.jpg)
 
 Big trucks with big wheels make big noise and excitement at [Monster Jam](https://www.tacomadome.org/events/detail/monster-jam-2025) in the Tacoma Dome, 2727 East D Street in Tacoma.
 
@@ -342,25 +324,25 @@ Edmonds (18 miles N)
 
 [map](https://maps.apple.com/maps/?address=Edmonds%20Center%20for%20the%20Arts%2C%20410%204th%20Ave%20N%2C%20Edmonds%2C%20WA%2098020)
 
+### Model trains - Puyallup
+
+January 18 - 19, 2025 (10 a.m. to 4 p.m.)
+
+Puyallup (37 miles S)
+
+The [Great Train Show](https://www.facebook.com/events/1025557166000185/) features model train layouts and hundreds of vendors at Washington State Fair Events Center, 110 9th Ave. SW in Puyallup. Children age 2 and younger are free.
+
+[map](https://maps.apple.com/maps/?address=Washington%20State%20Fair%20Events%20Center%2C%20110%209th%20Ave%20SW%2C%20Puyallup%2C%20WA%2098371) [photos](https://www.facebook.com/WashingtonStateFair/posts/pfbid0YHaEjgjJ2qdFkyxbCDY785Efr9SwMgho7Xjzu5R43PCTuq7FmfuebhHZWnd9mXFal)
+
 ### Motorcycle racing
 
 January 18 - Feb. 22, 2025 (Saturdays)
 
-Puyallup (37 miles S) ![Image 68](https://www.events12.com/img/119459.jpg)
+Puyallup (37 miles S) ![Image 66](https://www.events12.com/img/119459.jpg)
 
 [Puyallup Flat Track](https://www.facebook.com/photo?fbid=1076654347794556) features motorcycles and quads racing on an indoor track for $10 at the door of Washington State Fair Events Center, 110 9th Ave. SW in Puyallup. Enter at the green gate. Children age 5 and younger are free.
 
 [map](https://maps.apple.com/maps/?address=Washington%20State%20Fair%20Events%20Center%2C%20110%209th%20Ave%20SW%2C%20Puyallup%2C%20WA%2098371) [photos](https://www.facebook.com/crawmedia/posts/pfbid0AHQRd9ESHJPYWc6myyiUHDKSJebCRdNmj3j5jF3atLNL2t7vDp14E9fhfYB5uvBrl) [video](https://www.youtube.com/watch?v=4EV12CnVeOk)
-
-### Model trains - Puyallup
-
-January 19, 2025 (10 a.m. to 4 p.m.)
-
-Puyallup (37 miles S)
-
-The [Great Train Show](https://www.greattrainshow.com/gts-show-landing-pages/puyallup-01-25) features model train layouts and hundreds of vendors at Washington State Fair Events Center, 110 9th Ave. SW in Puyallup. Children age 2 and younger are free.
-
-[map](https://maps.apple.com/maps/?address=Washington%20State%20Fair%20Events%20Center%2C%20110%209th%20Ave%20SW%2C%20Puyallup%2C%20WA%2098371) [photos](https://www.facebook.com/WashingtonStateFair/posts/pfbid0YHaEjgjJ2qdFkyxbCDY785Efr9SwMgho7Xjzu5R43PCTuq7FmfuebhHZWnd9mXFal)
 
 ### MLK Day rally & march  FREE
 
@@ -420,7 +402,7 @@ Entry is free at Mount Rainier and Olympic National Parks on [Free Entrance Days
 
 ### Whiskey tasting
 
-January 22, 2025 (SALES ENDED)
+January 22, 2025
 
 Fremont (3.5 miles N)
 
@@ -430,7 +412,7 @@ An $93 ticket to [Robert Burns Tasting](https://www.eventbrite.com/e/the-barrel-
 
 ### 1980s sing along
 
-January 23, 2025 (SOLD OUT)
+January 23, 2025
 
 Central District (1.9 miles E)
 
@@ -450,9 +432,9 @@ University District (4.6 miles NE)
 
 ### Creative percussion show
 
-January 24 - 26, 2025 (2 p.m.)
+January 24 - 26, 2025
 
-Belltown (0.2 miles W) ![Image 69](https://www.events12.com/img/107909.jpg)
+Belltown (0.2 miles W) ![Image 67](https://www.events12.com/img/107909.jpg)
 
 [STOMP](https://www.stgpresents.org/events/stomp/) has high-energy dance, acrobatics, comedy, and nonstop rhythm from unusual instruments at The Moore Theatre, 1932 2nd Ave. in Seattle.
 
@@ -462,29 +444,19 @@ Belltown (0.2 miles W) ![Image 69](https://www.events12.com/img/107909.jpg)
 
 January 24 - March 9, 2025
 
-University District (3.9 miles NE) ![Image 70](https://www.events12.com/img/119216.jpg)
+University District (3.9 miles NE) ![Image 68](https://www.events12.com/img/119216.jpg)
 
 Watch the [Washington Huskies](https://gohuskies.com/sports/mens-basketball/schedule) play an exciting game in Alaska Airlines Arena at Hec Edmundson Pavilion, 3870 Montlake Blvd. NE in Seattle.
 
-- Jan. 24 - UCLA Bruins
+*   Jan. 24 - UCLA Bruins
 
 [map](https://maps.apple.com/maps/?address=Alaska%20Airlines%20Arena%20at%20Hec%20Edmundson%20Pavilion%2C%203870%20Montlake%20Blvd%20NE%2C%20Seattle%2C%20WA%2098105) [tickets](https://stubhub.prf.hn/l/3PZWn4n) [photos](https://gohuskies.com/galleries/mbb/5)
-
-### Blue Angels film
-
-January 25, 2025 (11:15 a.m.)
-
-Seattle Center (1 mile NW)
-
-“Soar with the Blue Angels in a thrilling new documentary” on the giant Imax screen, with a speaker discussing the history of flight during [Science and a Movie: Blue Angels](https://pacificsciencecenter.org/events/saam/) at Pacific Science Center, 200 2nd Ave. N in Seattle.
-
-[map](https://maps.apple.com/maps/?address=Pacific%20Science%20Center%2C%20200%202nd%20Ave%20N%2C%20Seattle%2C%20WA%2098109)
 
 ### Lunar New Year — Bellevue  FREE
 
 January 25, 2025 (11 a.m. to 6 p.m.)
 
-Bellevue (10 miles E) ![Image 71](https://www.events12.com/img/108171.jpg)
+Bellevue (10 miles E) ![Image 69](https://www.events12.com/img/108171.jpg)
 
 [Lunar New Year](https://bellevuecollection.com/lunarnewyear/) promises live performances, crafts, and displays” in the Center Court at Bellevue Square, 575 Bellevue Square in Bellevue.
 
@@ -500,34 +472,21 @@ Celebrate the year of the dragon at [Microsoft Asian Spring Festival Celebration
 
 [map](https://maps.apple.com/maps/?address=Overlake%20Christian%20Church%2C%209900%20Willows%20Rd%20NE%2C%20Redmond%2C%20WA%2098052)
 
-### Travel talk
-
-January 25, 2025
-
-Edmonds (18 miles N) ![Image 72](https://www.events12.com/img/119519.jpg)
-
-Register online for a free talk by travel expert [Rick Steves](https://www.ricksteves.com/travel-tips/travel-classes/european-travel-festival-class-registration) at Edmonds Center for the Arts, 410 4th Ave. N in Edmonds. You can shop at his travel store a few blocks away until 6 p.m.
-
-- 4 p.m. — Rick Steves tours
-- 6 p.m. — Travel As a Political Act
-
-[map](https://maps.apple.com/maps/?address=Edmonds%20Center%20for%20the%20Arts%2C%20410%204th%20Ave%20N%2C%20Edmonds%2C%20WA%2098020) [tours video](https://www.youtube.com/watch?v=21JRgKkefwE) [political video](https://www.youtube.com/watch?v=ylRgzneW3Vs)
-
 ### Sasquatch festival
 
 January 25, 2025 (9 a.m. to 8 p.m.)
 
 Longview (128 miles S)
 
-Shop for food and _bigfoot_ gear; take a _bigfoot_ workshop; hear live music; taste local beer, wine, and cider; visit the children’s arts & crafts area; see the film _Sasqualogist;_ and meet “renowned researchers and authors” at [sQuatch Fest](https://www.kelsolongviewchamber.org/squatchfest/) at Cowlitz County Fairgrounds, 1900 7th Ave. in Longview. Children younger than five years old are free. [Poster](https://www.kelsolongviewchamber.org/wp-content/uploads/sites/1101/2025/01/sQuatch-Fest-2025-Window-Poster_P5-1-1325x2048.jpg.webp).
+Shop for food and _bigfoot_ gear; take a _bigfoot_ workshop; hear live music; taste local beer, wine, and cider; visit the children’s arts & crafts area; see the film _Sasqualogist;_ and meet “renowned researchers and authors” at [sQuatch Fest](https://chamber.kelsolongviewchamber.org/events/details/squatch-fest-2025-3794) at Cowlitz County Fairgrounds, 1900 7th Ave. in Longview. Children younger than five years old are free.
 
 [map](https://maps.apple.com/maps/?address=Cowlitz%20County%20Fairgrounds%2C%201900%207th%20Ave%2C%20Longview%2C%20WA%2098362)
 
 ### Cabaret set in 1890s Hungary
 
-January 25 - 26, 2025 (SOLD OUT)
+January 25 - 26, 2025
 
-Downtown (0.3 miles S) ![Image 73](https://www.events12.com/img/113825b.jpg)
+Downtown (0.3 miles S) ![Image 70](https://www.events12.com/img/113825b.jpg)
 
 [Bohemia](https://tickets.thetripledoor.net/eventperformances.asp?evt=1342) is a “macabre and mystical dream cabaret” that combines classical music, art nouveau, green fairies, aerial numbers, dance, burlesque, classical piano battles, comedy, and original songs at The Triple Door, 216 Union St. in Seattle. Must be age 17+, or age 21+ for the show at 8:45 p.m. Closed Monday.
 
@@ -595,82 +554,16 @@ Drop off “gently used clothing, shoes, and accessories,” enjoy light refresh
 
 ### Music by candlelight
 
-January 29 - 30, 2025
+January 30, 2025
 
-Seattle & Woodinville ![Image 74](https://www.events12.com/img/119604.jpg)
+Seattle & Woodinville ![Image 71](https://www.events12.com/img/119604.jpg)
 
 [Candlelight Concert](https://fever.pxf.io/Kj6j5x) features a string quartet playing familiar songs for an hour in the warm glow of simulated candles.
 
-- Jan. 29 — [1990s music](https://fever.pxf.io/LXQLeO), Arctic Club
-- Jan. 29 — [Coldplay](https://fever.pxf.io/Y9ALQq), Arctic Club
-- Jan. 30 — [Classical music](https://fever.pxf.io/9LWYLW), Town Hall Sea.
-- Jan. 30 — [Fleetwood Mac](https://fever.pxf.io/K0eNjn), Town Hall Sea.
+*   6 p.m. — [Fleetwood Mac](https://fever.pxf.io/K0eNjn), Town Hall Sea.
+*   8:30 p.m. — [Classical music](https://fever.pxf.io/9LWYLW), Town Hall Sea.
 
 [video](https://www.youtube.com/watch?v=tfFe9hZJQuk)
-
-### Fishing, hunting, camping show
-
-January 29 - Feb. 2, 2025
-
-Puyallup (37 miles S)
-
-[Washington Sportsmen’s Show](https://www.thesportshows.com/shows/washington/show-information/) has seminars and exhibitors at Washington State Fair Events Center, 110 9th Ave. SW in Puyallup. Children age 5 and younger are free.
-
-[map](https://maps.apple.com/maps/?address=Washington%20State%20Fair%20Events%20Center%2C%20110%209th%20Ave%20SW%2C%20Puyallup%2C%20WA%2098371) [photos](https://www.facebook.com/thesportshows/posts/pfbid0MMW8DeDWo6ZVncedgCHfMGKN8u1HmXkF98nAetPydf5PfoN6MmxfqB9exERFz2Nel) [video](https://www.youtube.com/watch?v=g9AurOd2x7E)
-
-### Musical: Legally Blonde
-
-January 29 - March 2, 2025
-
-(began this month on January 5)
-
-Everett (29 miles N) ![Image 75](https://www.events12.com/img/119737.jpg)
-
-[Legally Blonde: The Musical](https://villagetheatre.org/shows/blonde/) is an upbeat song-and-dance tale about a sweet sorority sister named Elle, known for her all-pink wardrobe and her chihuahua Bruiser, who goes to Harvard Law to win back her boyfriend, at Everett Performing Arts Center, 2710 Wetmore Ave. in Everett.
-
-[map](https://maps.apple.com/maps/?address=Everett%20Performing%20Arts%20Center%2C%202710%20Wetmore%20Ave%2C%20Everett%2C%20WA%2098201) [tickets](https://tickets.villagetheatre.org/TheatreManager/1/login?event=4069) [video](https://www.youtube.com/watch?v=KTcR8VzD7Qc)
-
-### Cirque show
-
-January 29 - March 16, 2025
-
-(began this month on January 24)
-
-Redmond (16 miles NE) ![Image 76](https://www.events12.com/img/119847.jpg)
-
-An endearing but naïve clown takes a self-discovery journey to a bizarre, exotic world in [Kooza](https://www.cirquedusoleil.com/kooza), performed by Cirque du Soleil in a giant heated tent at Marymoor Park, 6046 West Lake Sammamish Pkwy NE in Redmond.
-
-[map](https://maps.apple.com/maps/?address=Marymoor%20Park%2C%206046%20West%20Lake%20Sammamish%20Pkwy%20NE%2C%20Redmond%2C%20WA%2098052) [tickets](https://stubhub.prf.hn/l/ngQOmAz/) [video](https://www.youtube.com/watch?v=69KJE-Cm6Hk)
-
-### Murder mystery
-
-January 29 - March 23, 2025
-
-Everett & Issaquah ![Image 77](https://www.events12.com/img/119760.jpg)
-
-Made famous by the Alfred Hitchcock film, [Dial M for Murder](https://villagetheatre.org/shows/murder/) is a bone-chilling thriller about a marriage gone wrong, performed live at Village Theatre, 303 Front St. N in Issaquah.
-
-- Jan. 29 to Feb. 23 — Issaquah
-- March 1 - 23 — Everett
-
-[map Issaquah](https://maps.apple.com/maps/?address=Village%20Theatre%2C%20303%20Front%20St%20N%2C%20Issaquah%2C%20WA%2098027) [map Everett](https://maps.apple.com/maps/?address=Everett%20Performing%20Arts%20Center%2C%202710%20Wetmore%20Ave%2C%20Everett%2C%20WA%2098201) [video](https://www.youtube.com/watch?v=Hsg9t4fA9xA)
-
-### Things to do  FREE
-
-January 29 - Dec. 31, 2025
-
-(began this month on January 1)
-
-multiple locations
-
-- [Bellevue Botanical Garden](https://bellevuebotanical.org/admission-hours-directions-parking/) until dusk
-- [Frye Art Museum](https://fryemuseum.org/) (Wed. - Sun.)
-- [Gold Rush Museum](https://www.nps.gov/klse/planyourvisit/basicinfo.htm) (Wed. - Sun.)
-- [Kubota Garden](https://kubotagarden.org/visitbasics.html) in Rainier Beach, [brochure](https://kubotagarden.org/kubotagardenmap.html)
-- [Live music](https://www.thirdplacecommons.org/programs-events/free-events/#weekly-live-music) in Lake Forest Park (Fri. - Sat.)
-- [Meet the NW trolls](https://www.nwtrolls.org/) in six parks
-- [Olympic Sculpture Park](https://www.seattleartmuseum.org/visit/olympic-sculpture-park) on waterfront
-- [Walks in Seattle](https://www.alltrails.com/us/washington/seattle)
 
 ### Soup weekend
 
@@ -692,6 +585,16 @@ Tacoma (33 miles S)
 
 [map](https://maps.apple.com/maps/?address=Tacoma%20Dome%2C%202727%20E%20D%20Street%2C%20Tacoma%2C%20WA%2098421) [photos](https://www.facebook.com/media/set/?set=a.1413270582058065)
 
+### Fishing, hunting, camping show
+
+January 30 - Feb. 2, 2025
+
+Puyallup (37 miles S)
+
+[Washington Sportsmen’s Show](https://www.thesportshows.com/shows/washington/show-information/) has seminars and exhibitors at Washington State Fair Events Center, 110 9th Ave. SW in Puyallup. Children age 5 and younger are free.
+
+[map](https://maps.apple.com/maps/?address=Washington%20State%20Fair%20Events%20Center%2C%20110%209th%20Ave%20SW%2C%20Puyallup%2C%20WA%2098371) [photos](https://www.facebook.com/thesportshows/posts/pfbid0MMW8DeDWo6ZVncedgCHfMGKN8u1HmXkF98nAetPydf5PfoN6MmxfqB9exERFz2Nel) [video](https://www.youtube.com/watch?v=g9AurOd2x7E)
+
 ### Live theater
 
 January 30 - Feb. 23, 2025
@@ -700,38 +603,76 @@ January 30 - Feb. 23, 2025
 
 Seattle
 
-- Annex Theatre — A teen investigates her grandfather’s secret life in [Gold](https://annextheatre.org/season-38/mainstage/gold/).
-- Bathhouse Theater — [Where is Here](https://www.seattlepublictheater.org/whereishere) is a solo show about an Iranian immigrant.
-- Seattle Rep — [Blues for an Alabama Sky](https://www.seattlerep.org/plays/202425-season/blues-for-an-alabama-sky/) features jazz singers in 1930s Harlem.
-- Tacoma Little Theatre — See [The Curious Incident of The Dog in The Night-Time](https://www.tacomalittletheatre.com/blog/20242025/curious).
+*   12th Ave Arts — A Yukon gold miner time travels to today in [Rip: A Wrinkle in Time](https://www.globalworksproductions.com/general-9).
+*   Annex Theatre — A teen investigates her grandfather’s secret life in [Gold](https://annextheatre.org/season-38/mainstage/gold/).
+*   Bathhouse Theater — [Where is Here](https://www.seattlepublictheater.org/whereishere) is a solo show about an Iranian immigrant.
+*   Seattle Rep — [Blues for an Alabama Sky](https://www.seattlerep.org/plays/202425-season/blues-for-an-alabama-sky/) features jazz singers in 1930s Harlem.
+
+### Musical: Legally Blonde
+
+January 30 - March 2, 2025
+
+(began this month on January 5)
+
+Everett (29 miles N) ![Image 72](https://www.events12.com/img/119737.jpg)
+
+[Legally Blonde: The Musical](https://villagetheatre.org/shows/blonde/) is an upbeat song-and-dance tale about a sweet sorority sister named Elle, known for her all-pink wardrobe and her chihuahua Bruiser, who goes to Harvard Law to win back her boyfriend, at Everett Performing Arts Center, 2710 Wetmore Ave. in Everett.
+
+[map](https://maps.apple.com/maps/?address=Everett%20Performing%20Arts%20Center%2C%202710%20Wetmore%20Ave%2C%20Everett%2C%20WA%2098201) [tickets](https://tickets.villagetheatre.org/TheatreManager/1/login?event=4069) [video](https://www.youtube.com/watch?v=KTcR8VzD7Qc)
+
+### Cirque show
+
+January 30 - March 16, 2025
+
+(began this month on January 24)
+
+Redmond (16 miles NE) ![Image 73](https://www.events12.com/img/119847.jpg)
+
+An endearing but naïve clown takes a self-discovery journey to a bizarre, exotic world in [Kooza](https://www.cirquedusoleil.com/kooza), performed by Cirque du Soleil in a giant heated tent at Marymoor Park, 6046 West Lake Sammamish Pkwy NE in Redmond.
+
+[map](https://maps.apple.com/maps/?address=Marymoor%20Park%2C%206046%20West%20Lake%20Sammamish%20Pkwy%20NE%2C%20Redmond%2C%20WA%2098052) [tickets](https://stubhub.prf.hn/l/ngQOmAz/) [video](https://www.youtube.com/watch?v=69KJE-Cm6Hk)
+
+### Murder mystery
+
+January 30 - March 23, 2025
+
+Everett & Issaquah ![Image 74](https://www.events12.com/img/119760.jpg)
+
+Made famous by the Alfred Hitchcock film, [Dial M for Murder](https://villagetheatre.org/shows/murder/) is a bone-chilling thriller about a marriage gone wrong, performed live at Village Theatre, 303 Front St. N in Issaquah.
+
+*   Jan. 30 to Feb. 23 — Issaquah
+*   March 1 - 23 — Everett
+
+[map Issaquah](https://maps.apple.com/maps/?address=Village%20Theatre%2C%20303%20Front%20St%20N%2C%20Issaquah%2C%20WA%2098027) [map Everett](https://maps.apple.com/maps/?address=Everett%20Performing%20Arts%20Center%2C%202710%20Wetmore%20Ave%2C%20Everett%2C%20WA%2098201) [video](https://www.youtube.com/watch?v=Hsg9t4fA9xA)
 
 ### Hockey
 
 January 30 - April 15, 2025
 
-Seattle Center (1.2 miles NW) ![Image 78](https://www.events12.com/img/118516.jpg)
+Seattle Center (1.2 miles NW) ![Image 75](https://www.events12.com/img/118516.jpg)
 
 Watch [Seattle Kraken](https://www.nhl.com/kraken/schedule/2025-01-01) play a home game on the ice at Climate Pledge Arena, 334 1st Ave. N in Seattle.
 
-- Jan. 30 — San Jose Sharks
+*   Jan. 30 — San Jose Sharks
 
 [map](https://maps.apple.com/maps/?address=Climate%20Pledge%20Arena%2C%20334%201st%20Ave%20N%2C%20Seattle%2C%20WA%2098109) [tickets](https://stubhub.prf.hn/l/aWYj3OM) [video](https://www.youtube.com/watch?v=rPS3DK11WMU)
 
-### Tasting tours
+### Things to do  FREE
 
 January 30 - Dec. 31, 2025
 
 (began this month on January 1)
 
-Seattle ![Image 79](https://www.events12.com/img/119020a.jpg)
+multiple locations
 
-Enjoy delicious samples on a highly rated neighborhood tour from Viator (TripAdvisor).
-
-- [Chef tasting](https://www.viator.com/tours/Seattle/Chef-Guided-Food-Tour-of-Pike-Place-Market/d704-23161P1?pid=P00051759&mcid=42383&medium=link&campaign=119020f) – Pike Place Market $70
-- [Chocolate tasting](https://www.viator.com/tours/Seattle/Seattle-Chocolate-Tour/d704-326808P1?pid=P00051759&mcid=42383&medium=link&campaign=119020a) – Downtown $84
-- [Coffee tasting](https://www.viator.com/tours/Seattle/True-Taste-of-Seattles-Coffee-Tour/d704-5713P187?pid=P00051759&mcid=42383&medium=link&campaign=119020i) – Capitol Hill $60
-- [Seafood tasting](https://www.viator.com/tours/Seattle/Pike-Place-Market-Seafood-Tasting-Tour/d704-358969P3?pid=P00051759&mcid=42383&medium=link&medium_version=selector&campaign=119020n) – Pike Place Market $72
-- [Wine tasting](https://www.viator.com/tours/Seattle/Bon-Vivant-Woodinville-Wine-Tasting-Tour/d704-277306P1?pid=P00051759&mcid=42383&medium=link&campaign=119020ze) – Woodinville $120
+*   [Bellevue Botanical Garden](https://bellevuebotanical.org/admission-hours-directions-parking/) until dusk
+*   [Frye Art Museum](https://fryemuseum.org/) (Wed. - Sun.)
+*   [Gold Rush Museum](https://www.nps.gov/klse/planyourvisit/basicinfo.htm) (Wed. - Sun.)
+*   [Kubota Garden](https://kubotagarden.org/visitbasics.html) in Rainier Beach, [brochure](https://kubotagarden.org/kubotagardenmap.html)
+*   [Live music](https://www.thirdplacecommons.org/programs-events/free-events/#weekly-live-music) in Lake Forest Park (Fri. - Sat.)
+*   [Meet the NW trolls](https://www.nwtrolls.org/) in six parks
+*   [Olympic Sculpture Park](https://www.seattleartmuseum.org/visit/olympic-sculpture-park) on waterfront
+*   [Walks in Seattle](https://www.alltrails.com/us/washington/seattle)
 
 ### Masquerade ball
 
@@ -787,12 +728,12 @@ Enjoy beer in odd flavors from dozens of breweries and watch live music and ente
 
 January 31 & Feb. 2, 2025
 
-multiple locations ![Image 80](https://www.events12.com/img/118722.jpg)
+multiple locations ![Image 76](https://www.events12.com/img/118722.jpg)
 
 [Harlem Globetrotters](https://www.harlemglobetrotters.com/world-tour/) perform ball handling wizardry, rim-rattling dunks, trick shots, and comedy bits in an entertaining show.
 
-- Jan. 31 — [Angel of the Winds](https://www.angelofthewindsarena.com/events/detail/harlem-globetrotters-4), Everett
-- Feb. 2 — [Showare Center](https://www.accessoshowarecenter.com/events/2025/harlem-globetrotters), Kent
+*   Jan. 31 — [Angel of the Winds](https://www.angelofthewindsarena.com/events/detail/harlem-globetrotters-4), Everett
+*   Feb. 2 — [Showare Center](https://www.accessoshowarecenter.com/events/2025/harlem-globetrotters), Kent
 
 ### Chamber music
 
@@ -800,7 +741,7 @@ January 31 - Feb. 2, 2025
 
 (began this month on January 24)
 
-Downtown (0.3 miles S) ![Image 81](https://www.events12.com/img/100018a.jpg)
+Downtown (0.3 miles S) ![Image 77](https://www.events12.com/img/100018a.jpg)
 
 Seattle Chamber Music Society’s [Winter Festival](https://www.seattlechambermusic.org/concert_series/2025-winter-festival/) has a free recital before each performance in Nordstrom Recital Hall at Benaroya Hall, 200 University St. in Seattle. Repeats in July.
 
@@ -820,12 +761,12 @@ Olympia (62 miles S)
 
 January 31 - Feb. 8, 2025
 
-Pioneer Square (1.3 miles S) ![Image 82](https://www.events12.com/img/100019.jpg)
+Pioneer Square (1.3 miles S) ![Image 78](https://www.events12.com/img/100019.jpg)
 
 [Seattle Boat Show](https://seattleboatshow.com/) has 800 boats and watercraft on display plus 150 boating seminars at Lumen Field, 800 Occidental Ave. S in Seattle. A [free shuttle](https://seattleboatshow.com/free-shuttle/) goes to boats in the water at Bell Harbor Marina. Children age 17 and younger are free.
 
-- Tuesday — Two for one if bought online
-- Thursday — [Dogs on Deck](https://seattleboatshow.com/feature/dogs-on-deck/)
+*   Tuesday — Two for one if bought online
+*   Thursday — [Dogs on Deck](https://seattleboatshow.com/feature/dogs-on-deck/)
 
 [map](https://maps.apple.com/maps/?address=Lumen%20Field%2C%20800%20Occidental%20Ave%20S%2C%20Seattle%2C%20WA%2098134) [video](https://www.youtube.com/watch?v=M0skv4p9cT0)
 
@@ -833,7 +774,7 @@ Pioneer Square (1.3 miles S) ![Image 82](https://www.events12.com/img/100019.jpg
 
 January 31 - Feb. 9, 2025
 
-Seattle Center (1.2 miles NW) ![Image 83](https://www.events12.com/img/119685.jpg)
+Seattle Center (1.2 miles NW) ![Image 79](https://www.events12.com/img/119685.jpg)
 
 [The Sleeping Beauty](https://www.pnb.org/season/the-sleeping-beauty/) is a “historically-informed re-imagining” of the classic fairy tale about a princess under a spell to sleep for 100 years until awakened by the kiss of a prince. It’s set in a Pacific Northwest-inspired fairyland at McCaw Hall, 321 Mercer St. in Seattle.
 
@@ -845,7 +786,7 @@ January 31 - March 2, 2025
 
 (began this month on January 3)
 
-Riverview (6 miles S) ![Image 84](https://www.events12.com/img/119528a.jpg)
+Riverview (6 miles S) ![Image 80](https://www.events12.com/img/119528a.jpg)
 
 “Discover a celestial pathway of lustrous light, cosmic visions, and astral song” at [Astra Lumina](https://fever.pxf.io/k02yxn), a pricey walk with special-effects lighting and sound in Seattle Chinese Garden at South Seattle College, 6000 16th Ave. SW in Seattle.
 
@@ -861,6 +802,22 @@ Each paying adult can bring two children for free (age 12 or younger) during [Ki
 
 [map](https://maps.apple.com/maps/?address=Northwest%20Trek%20Wildlife%20Park%2C%2011610%20Trek%20Dr%20E%2C%20Eatonville%2C%20WA%2098328) [photos](https://www.facebook.com/NWtrek/posts/pfbid027whxynTMg2nJQ8QAdzWm2aAHde89MUk2CLuQBxq1C96Bdq36PKL5MguJxMrhjevSl)
 
+### Tasting tours
+
+January 31 - Dec. 31, 2025
+
+(began this month on January 1)
+
+Seattle ![Image 81](https://www.events12.com/img/119020a.jpg)
+
+Enjoy delicious samples on a highly rated neighborhood tour from Viator (TripAdvisor).
+
+*   [Chef tasting](https://www.viator.com/tours/Seattle/Chef-Guided-Food-Tour-of-Pike-Place-Market/d704-23161P1?pid=P00051759&mcid=42383&medium=link&campaign=119020f) – Pike Place Market $70
+*   [Chocolate tasting](https://www.viator.com/tours/Seattle/Seattle-Chocolate-Tour/d704-326808P1?pid=P00051759&mcid=42383&medium=link&campaign=119020a) – Downtown $84
+*   [Coffee tasting](https://www.viator.com/tours/Seattle/True-Taste-of-Seattles-Coffee-Tour/d704-5713P187?pid=P00051759&mcid=42383&medium=link&campaign=119020i) – Capitol Hill $60
+*   [Seafood tasting](https://www.viator.com/tours/Seattle/Pike-Place-Market-Seafood-Tasting-Tour/d704-358969P3?pid=P00051759&mcid=42383&medium=link&medium_version=selector&campaign=119020n) – Pike Place Market $72
+*   [Wine tasting](https://www.viator.com/tours/Seattle/Bon-Vivant-Woodinville-Wine-Tasting-Tour/d704-277306P1?pid=P00051759&mcid=42383&medium=link&campaign=119020ze) – Woodinville $120
+
 ### Short horror films
 
 February 1, 2025 (2 to 6 p.m.)
@@ -875,7 +832,7 @@ Central District (1.9 miles E)
 
 February 1, 2025 (5 p.m.)
 
-Lynnwood (16 miles N) ![Image 85](https://www.events12.com/img/119570.jpg)
+Lynnwood (16 miles N) ![Image 82](https://www.events12.com/img/119570.jpg)
 
 Watch the women of [Jet City Roller Derby](https://jetcityrollerderby.com/bouts-events/) play an exciting game and visit the beer garden at Edmonds Community College in Seaview Gym, 200th St. SW in Lynnwood. Doors open 4 p.m.
 
@@ -895,7 +852,7 @@ A $75 ticket to [Cork, Fork & Support](https://event.auctria.com/2b6dc1c2-1a1a-4
 
 February 1, 2025 (10 a.m. to 6 p.m.)
 
-Lacey (58 miles S) ![Image 86](https://www.events12.com/img/119217.jpg)
+Lacey (58 miles S) ![Image 83](https://www.events12.com/img/119217.jpg)
 
 [Lacey Cultural Celebration](https://laceyparks.org/events/cultural/) has music and dance performances, demonstrations, displays, food and craft vendors, and kids’ crafts in the Marcus Pavilion at Saint Martin's University, 5300 Pacific Ave. SE in Olympia. No pets.
 
@@ -941,37 +898,39 @@ Lynnwood (16 miles NE)
 
 [map](https://maps.apple.com/maps/?address=Embassy%20Suites%2C%2020610%2044th%20Ave%20W%2C%20Lynnwood%2C%20WA%2098036) [photos](https://www.facebook.com/permalink.php?story_fbid=pfbid0kUM7SYCdGpqzoLhEgegXMaBRQYe2e8N7PjwaVPC34V6GD5op9H5qQ7GzPHmiNohel&id=100072167015828)
 
-## concerts
+concerts
+--------
 
-| Future concerts                                                |
-| -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | --------------- |
-| ![Image 87: concerts](https://www.events12.com/img/100000.jpg) |
-| Feb. 11                                                        | [Jefferson Starship](https://www.seattlesymphony.org/en/concerttickets/calendar/2024-2025/25-jefferson-starship) | Benaroya        |
-| Feb. 15                                                        | [Nathaniel Rateliff](https://stubhub.prf.hn/l/G9yMOpO/)                                                          | Climate Pledge  |
-| Feb. 16                                                        | [Joe Bonamassa](https://stubhub.prf.hn/l/o3mLzMA/)                                                               | Climate Pledge  |
-| Feb. 19                                                        | [Lyle Lovett](https://stubhub.prf.hn/l/55M8pAm/)                                                                 | Moore           |
-| Feb. 27                                                        | [Deftones](https://stubhub.prf.hn/l/G9X3kj5/)                                                                    | Climate Pledge  |
-| March 2 - 3                                                    | [Tyler the Creator](https://stubhub.prf.hn/l/DLX1MAZ/)                                                           | Climate Pledge  |
-| March 13                                                       | [Kelsea Ballerini](https://stubhub.prf.hn/l/YLBkZl9/)                                                            | Climate Pledge  |
-| March 24                                                       | [Franz Ferdinand](https://stubhub.prf.hn/l/lQBNZvl/)                                                             | Showbox SoDo    |
-| April 1                                                        | [Papa Roach](https://stubhub.prf.hn/l/p3Q0MA0/)                                                                  | Climate Pledge  |
-| April 25                                                       | [Kylie Minogue](https://stubhub.prf.hn/l/lQOXWLv/)                                                               | Climate Pledge  |
-| May 5                                                          | [Awolnation](https://stubhub.prf.hn/l/o3B9akv/)                                                                  | Showbox         |
-| May 5                                                          | [Disturbed](https://stubhub.prf.hn/l/kVkZwlb/)                                                                   | Climate Pledge  |
-| May 17                                                         | [Kendrick Lamar & Sza](https://stubhub.prf.hn/l/G9XRwJp/)                                                        | Lumen Field     |
-| May 16                                                         | [J Balvin](https://stubhub.prf.hn/l/55AbjOo/)                                                                    | Climate Pledge  |
-| May 19 - 20                                                    | [Jack White](https://stubhub.prf.hn/l/DLX1Mba/)                                                                  | Paramount       |
-| May 24                                                         | [Stray Kids](https://stubhub.prf.hn/l/8j59Wew/)                                                                  | T-Mobile Park   |
-| May 25 - 26                                                    | [James Taylor](https://stubhub.prf.hn/l/9OXQla1/)                                                                | Chateau Ste. M. |
-| May 30                                                         | [Leon Bridges](https://stubhub.prf.hn/l/de4z4Wq/)                                                                | Remlinger       |
-| June 23 - 24                                                   | [Pixies](https://stubhub.prf.hn/l/AJy2Weg/)                                                                      | Paramount       |
-| June 26                                                        | [Post Malone](https://stubhub.prf.hn/l/3PXWeov/)                                                                 | T-Mobile Park   |
-| July 11                                                        | [My Chemical Romance](https://stubhub.prf.hn/l/gx9NQL1/)                                                         | T-Mobile Park   |
-| July 29 - 30                                                   | [Melissa Etheridge](https://stubhub.prf.hn/l/de4GWpL/)                                                           | Marymoor        |
-| Aug. 31                                                        | [Teddy Swims](https://stubhub.prf.hn/l/9OxEWwD/)                                                                 | WaMu            |
-| Oct. 15 - 16                                                   | [Dua Lipa](https://stubhub.prf.hn/l/BJbkoL0/)                                                                    | Climate Pledge  |
-| [more concerts](https://stubhub.prf.hn/l/vwBY3LG/)             |
+| Future concerts |
+| --- |
+| ![Image 84: concerts](https://www.events12.com/img/100000.jpg) |
+| Feb. 11 | [Jefferson Starship](https://www.seattlesymphony.org/en/concerttickets/calendar/2024-2025/25-jefferson-starship) | Benaroya |
+| Feb. 15 | [Nathaniel Rateliff](https://stubhub.prf.hn/l/G9yMOpO/) | Climate Pledge |
+| Feb. 16 | [Joe Bonamassa](https://stubhub.prf.hn/l/o3mLzMA/) | Climate Pledge |
+| Feb. 19 | [Lyle Lovett](https://stubhub.prf.hn/l/55M8pAm/) | Moore |
+| Feb. 27 | [Deftones](https://stubhub.prf.hn/l/G9X3kj5/) | Climate Pledge |
+| March 2 - 3 | [Tyler the Creator](https://stubhub.prf.hn/l/DLX1MAZ/) | Climate Pledge |
+| March 13 | [Kelsea Ballerini](https://stubhub.prf.hn/l/YLBkZl9/) | Climate Pledge |
+| March 24 | [Franz Ferdinand](https://stubhub.prf.hn/l/lQBNZvl/) | Showbox SoDo |
+| April 1 | [Papa Roach](https://stubhub.prf.hn/l/p3Q0MA0/) | Climate Pledge |
+| April 25 | [Kylie Minogue](https://stubhub.prf.hn/l/lQOXWLv/) | Climate Pledge |
+| May 5 | [Awolnation](https://stubhub.prf.hn/l/o3B9akv/) | Showbox |
+| May 5 | [Disturbed](https://stubhub.prf.hn/l/kVkZwlb/) | Climate Pledge |
+| May 17 | [Kendrick Lamar & Sza](https://stubhub.prf.hn/l/G9XRwJp/) | Lumen Field |
+| May 16 | [J Balvin](https://stubhub.prf.hn/l/55AbjOo/) | Climate Pledge |
+| May 19 - 20 | [Jack White](https://stubhub.prf.hn/l/DLX1Mba/) | Paramount |
+| May 24 | [Stray Kids](https://stubhub.prf.hn/l/8j59Wew/) | T-Mobile Park |
+| May 25 - 26 | [James Taylor](https://stubhub.prf.hn/l/9OXQla1/) | Chateau Ste. M. |
+| May 30 | [Leon Bridges](https://stubhub.prf.hn/l/de4z4Wq/) | Remlinger |
+| June 23 - 24 | [Pixies](https://stubhub.prf.hn/l/AJy2Weg/) | Paramount |
+| June 26 | [Post Malone](https://stubhub.prf.hn/l/3PXWeov/) | T-Mobile Park |
+| July 11 | [My Chemical Romance](https://stubhub.prf.hn/l/gx9NQL1/) | T-Mobile Park |
+| July 29 - 30 | [Melissa Etheridge](https://stubhub.prf.hn/l/de4GWpL/) | Marymoor |
+| Aug. 31 | [Teddy Swims](https://stubhub.prf.hn/l/9OxEWwD/) | WaMu |
+| Oct. 15 - 16 | [Dua Lipa](https://stubhub.prf.hn/l/BJbkoL0/) | Climate Pledge |
+| [more concerts](https://stubhub.prf.hn/l/vwBY3LG/) |
 
-## open next month
+open next month
+---------------
 
 [February](https://www.events12.com/seattle/february/ "Seattle events February 2025")

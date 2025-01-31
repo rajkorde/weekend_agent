@@ -1,8 +1,6 @@
-from datetime import datetime, timedelta
-from pickle import TRUE
-
 from dotenv import load_dotenv
 
+from weekend_fun.email_sender import send_event_email
 from weekend_fun.event_finder import (
     EventExtracter,
     _filter_weekend_events,
@@ -10,7 +8,6 @@ from weekend_fun.event_finder import (
     _scrape_and_convert_to_md,
 )
 
-# from weekend_fun.email_sender import send_event_email
 # from weekend_fun.event_ranker import rank_events
 from weekend_fun.user_manager import get_user_info
 from weekend_fun.utils import get_weekend_dates, write_to_file
@@ -51,7 +48,7 @@ filtered_events = _filter_weekend_events(events, sat=weekend_start, sun=weekend_
 # print(ranked_events)
 
 # Send email with recommendations
-# send_event_email(user_info["email"], ranked_events)
+send_event_email(to_email=user_info["email"], events=events)
 
 print("Event recommendations have been sent to your email!")
 

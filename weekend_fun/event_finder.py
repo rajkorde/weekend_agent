@@ -6,6 +6,7 @@ from typing import List, Optional
 import requests
 from langchain_core.messages import SystemMessage
 from langchain_openai import ChatOpenAI
+from openai import max_retries
 from pydantic import BaseModel, Field
 
 from weekend_fun.date_extractor import DateExtracter
@@ -25,14 +26,16 @@ class Events(BaseModel):
 
 class EventExtracter:
     _extract_instructions = """
-        You will be given a context as a markdown file that has text extracted from a website that contains a list of events and your job is to extract events from the list in a specific format. 
+        You will be given a context as a markdown file that has text extracted from a website that contains a list of events and your job is to extract events from the list in a specific format.
+
+        Read the whole context and find every single event.
 
         Context: {context}
     """
 
     def __init__(self, model_name: str = "gpt-4o-mini"):
         self.model_name = model_name
-        base_llm = ChatOpenAI(model=model_name)
+        base_llm = ChatOpenAI(model=model_name, max_retries=3)
         self.llm = base_llm.with_structured_output(Events)
 
     def extract_events(self, content: str) -> list[Event]:
@@ -41,7 +44,7 @@ class EventExtracter:
                 SystemMessage(
                     content=EventExtracter._extract_instructions.format(context=content)
                 )
-            ]
+            ],
         )
         assert isinstance(event_list, Events)
         return event_list.events if event_list.events else []

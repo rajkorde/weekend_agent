@@ -10,20 +10,31 @@ from weekend_fun.event_finder import (
 
 # from weekend_fun.event_ranker import rank_events
 from weekend_fun.user_manager import get_user_info
-from weekend_fun.utils import get_weekend_dates, write_to_file
+from weekend_fun.utils import (
+    cheap_markdown_chunker,
+    get_weekend_dates,
+    read_from_file,
+    write_to_file,
+)
 
 # def main():
 DEBUG = True
+SAVE_TOKENS = True
 
 assert load_dotenv()
 user_info = get_user_info()
 
-urls = _get_urls_for_city(user_info["city"])
-text = _scrape_and_convert_to_md(urls[0])
+if SAVE_TOKENS:
+    text = read_from_file("scraped.md")
+else:
+    urls = _get_urls_for_city(user_info["city"])
+    text = _scrape_and_convert_to_md(urls[0])
 
 if DEBUG:
     print(f"Scraped length: {len(text)}")
     write_to_file(text)
+
+chunks = cheap_markdown_chunker(text)
 
 
 events = EventExtracter().extract_events(text)

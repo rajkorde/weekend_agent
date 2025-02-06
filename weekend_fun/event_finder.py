@@ -1,12 +1,11 @@
 import json
 import os
-from datetime import date, datetime
+from datetime import date
 from typing import List, Optional
 
 import requests
 from langchain_core.messages import SystemMessage
 from langchain_openai import ChatOpenAI
-from openai import max_retries
 from pydantic import BaseModel, Field
 
 from weekend_fun.date_extractor import DateExtracter
@@ -37,6 +36,9 @@ class EventExtracter:
         self.model_name = model_name
         base_llm = ChatOpenAI(model=model_name, max_retries=3)
         self.llm = base_llm.with_structured_output(Events)
+        self.chunks = []
+
+    def _cheap_mdchunker(self, content: str): ...
 
     def extract_events(self, content: str) -> list[Event]:
         event_list = self.llm.invoke(

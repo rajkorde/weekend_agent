@@ -1,9 +1,0 @@
-run = "poetry run python main.py"
-hidden = [".pytest_cache", "__pycache__", ".env"]
-
-[nix]
-channel = "stable-22_11"
-
-[deployment]
-run = ["sh", "-c", "poetry run python main.py"]
-deploymentTarget = "cloudrun" 

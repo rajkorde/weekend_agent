@@ -37,7 +37,7 @@ if DEBUG:
 chunks = cheap_markdown_chunker(text)
 
 
-events = EventExtracter().extract_events(text)
+events = EventExtracter().extract_events(chunks)
 
 
 # # write response.content to a file

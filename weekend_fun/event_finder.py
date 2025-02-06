@@ -38,18 +38,29 @@ class EventExtracter:
         self.llm = base_llm.with_structured_output(Events)
         self.chunks = []
 
-    def _cheap_mdchunker(self, content: str): ...
+    def extract_events(self, chunks: list[str]) -> list[Event]:
+        net_events = []
+        for chunk in chunks[:5]:
+            print(f"chunk: {chunk}")
+            events_in_chunk = self.llm.invoke(
+                [
+                    SystemMessage(
+                        content=EventExtracter._extract_instructions.format(
+                            context=chunk
+                        )
+                    )
+                ],
+            )
 
-    def extract_events(self, content: str) -> list[Event]:
-        event_list = self.llm.invoke(
-            [
-                SystemMessage(
-                    content=EventExtracter._extract_instructions.format(context=content)
-                )
-            ],
-        )
-        assert isinstance(event_list, Events)
-        return event_list.events if event_list.events else []
+            assert events_in_chunk is not None and isinstance(events_in_chunk, Events)
+            print("Events:")
+            for event in events_in_chunk.events:
+                print(event)
+            if events_in_chunk.events:
+                net_events += events_in_chunk.events
+            print("\n")
+
+        return net_events
 
 
 def _get_urls_for_city(city: str) -> List[str]:

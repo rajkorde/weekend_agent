@@ -1,3 +1,6 @@
+import asyncio
+from typing import Any, Callable, Coroutine
+
 from dotenv import load_dotenv
 
 from weekend_fun.email_sender import send_event_email
@@ -37,7 +40,30 @@ if DEBUG:
 chunks = cheap_markdown_chunker(text)
 
 
-events = EventExtracter().extract_events(chunks)
+def run_async_function(
+    async_function: Callable[..., Coroutine[Any, Any, Any]], *args: Any
+) -> Any:
+    try:
+        loop = asyncio.get_event_loop()
+        return loop.create_task(
+            async_function(*args)
+        )  # use create_task if running inside jupyter
+    except RuntimeError:
+        return asyncio.run(async_function(*args))  # Run normally if no loop is running
+
+
+future = run_async_function(EventExtracter().extract_events, chunks)
+# If running in Jupyter, events will be a Future, so await it
+try:
+    loop = (
+        asyncio.get_running_loop()
+    )  # Check if running inside an existing event loop (Jupyter)
+    events = asyncio.ensure_future(future)  # Ensure future runs inside the loop
+except RuntimeError:
+    events = asyncio.run(future)
+
+# TODO: add retry logic for throttling requests
+print(events)
 
 
 # # write response.content to a file

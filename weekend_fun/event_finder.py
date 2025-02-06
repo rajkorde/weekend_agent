@@ -1,3 +1,4 @@
+import asyncio
 import json
 import os
 from datetime import date
@@ -38,11 +39,11 @@ class EventExtracter:
         self.llm = base_llm.with_structured_output(Events)
         self.chunks = []
 
-    def extract_events(self, chunks: list[str]) -> list[Event]:
+    async def extract_events(self, chunks: list[str]) -> list[Event]:
         net_events = []
-        for chunk in chunks[:5]:
-            print(f"chunk: {chunk}")
-            events_in_chunk = self.llm.invoke(
+
+        async def process_chunk(chunk: str) -> list[Event]:
+            events_in_chunk = await self.llm.ainvoke(
                 [
                     SystemMessage(
                         content=EventExtracter._extract_instructions.format(
@@ -53,14 +54,35 @@ class EventExtracter:
             )
 
             assert events_in_chunk is not None and isinstance(events_in_chunk, Events)
-            print("Events:")
-            for event in events_in_chunk.events:
-                print(event)
-            if events_in_chunk.events:
-                net_events += events_in_chunk.events
-            print("\n")
+            return events_in_chunk.events
 
+        tasks = [process_chunk(chunk) for chunk in chunks[0:5]]
+        results = await asyncio.gather(*tasks)
+
+        net_events = [event for result in results for event in result]
         return net_events
+
+        # for chunk in chunks[:5]:
+        #     print(f"chunk: {chunk}")
+        #     events_in_chunk = self.llm.invoke(
+        #         [
+        #             SystemMessage(
+        #                 content=EventExtracter._extract_instructions.format(
+        #                     context=chunk
+        #                 )
+        #             )
+        #         ],
+        #     )
+
+        #     assert events_in_chunk is not None and isinstance(events_in_chunk, Events)
+        #     print("Events:")
+        #     for event in events_in_chunk.events:
+        #         print(event)
+        #     if events_in_chunk.events:
+        #         net_events += events_in_chunk.events
+        #     print("\n")
+
+        # return net_events
 
 
 def _get_urls_for_city(city: str) -> List[str]:

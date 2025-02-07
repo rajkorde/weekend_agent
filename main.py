@@ -55,10 +55,9 @@ def run_async_function(
 future = run_async_function(EventExtracter().extract_events, chunks)
 # If running in Jupyter, events will be a Future, so await it
 try:
-    loop = (
-        asyncio.get_running_loop()
-    )  # Check if running inside an existing event loop (Jupyter)
-    events = asyncio.ensure_future(future)  # Ensure future runs inside the loop
+    # Check if running inside an existing event loop (Jupyter)
+    loop = asyncio.get_running_loop()
+    events = await future  # type: ignore
 except RuntimeError:
     events = asyncio.run(future)
 

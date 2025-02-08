@@ -1,0 +1,7 @@
+{
+  "scrape": false,
+  "extract": false,
+  "rank": false,
+  "email": false,
+  "save": true
+}

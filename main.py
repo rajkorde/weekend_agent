@@ -2,6 +2,7 @@ import asyncio
 from typing import Any, Callable, Coroutine
 
 from dotenv import load_dotenv
+from loguru import logger
 
 from weekend_fun.email_sender import send_event_email
 from weekend_fun.event_finder import (

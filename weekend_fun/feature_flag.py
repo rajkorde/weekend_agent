@@ -10,6 +10,7 @@ class FeatureFlags(BaseModel):
     extract: bool
     rank: bool
     email: bool
+    save: bool
 
     @classmethod
     def read_feature_flags(

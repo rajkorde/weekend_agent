@@ -1,5 +1,7 @@
+import asyncio
 import re
 from datetime import date, datetime, timedelta
+from typing import Any, Callable, Coroutine
 
 
 def cheap_markdown_chunker(text: str) -> list[str]:
@@ -44,3 +46,15 @@ def read_from_file(file_path: str = "scraped.md") -> str:
         print(f"Error writing to file: {e}")
 
     return content
+
+
+def run_async_function(
+    async_function: Callable[..., Coroutine[Any, Any, Any]], *args: Any
+) -> Any:
+    try:
+        loop = asyncio.get_event_loop()
+        return loop.create_task(
+            async_function(*args)
+        )  # use create_task if running inside jupyter
+    except RuntimeError:
+        return asyncio.run(async_function(*args))  # Run normally if no loop is running

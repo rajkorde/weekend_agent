@@ -85,6 +85,12 @@ class EventExtracter:
         # return net_events
 
 
+def scrape_website(city: str) -> str:
+    urls = _get_urls_for_city(city)
+    # TODO: only scrape first url
+    return _scrape_and_convert_to_md(urls[0])
+
+
 def _get_urls_for_city(city: str) -> List[str]:
     """Get the URLs for the specified city from config.json."""
     try:
@@ -115,7 +121,7 @@ def _scrape_and_convert_to_md(url: str) -> str:
     return result
 
 
-def _filter_weekend_events(events: list[Event], sat: date, sun: date) -> List[Event]:
+def filter_weekend_events(events: list[Event], sat: date, sun: date) -> List[Event]:
     date_extractor = DateExtracter()
 
     filtered_events = []

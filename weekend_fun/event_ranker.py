@@ -1,5 +1,5 @@
 from os import getenv
-from typing import Dict, List
+from typing import Any
 
 import openai
 from dotenv import load_dotenv
@@ -7,7 +7,9 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-def rank_events(events: List[Dict], interests: List[str]) -> List[Dict]:
+def rank_events(
+    events: list[dict[str, Any]], interests: list[str]
+) -> list[dict[str, Any]]:
     """Rank events based on user interests using OpenAI."""
     openai.api_key = getenv("OPENAI_API_KEY")
 
@@ -19,7 +21,7 @@ def rank_events(events: List[Dict], interests: List[str]) -> List[Dict]:
     return sorted(ranked_events, key=lambda x: x["score"], reverse=True)
 
 
-def _calculate_interest_score(event: Dict, interests: List[str]) -> float:
+def _calculate_interest_score(event: dict[str, Any], interests: list[str]) -> float:
     """Calculate an interest score for an event based on user interests."""
     prompt = f"""
     Event Title: {event["title"]}

@@ -23,6 +23,18 @@ class Event(BaseModel):
 class Events(BaseModel):
     events: list[Event] = Field(default_factory=list, description="List of events")
 
+    @staticmethod
+    def serialize(events: list[Event], filename: str = "data/scrapedevents.json"):
+        with open(filename, "w") as f:
+            json.dump([event.model_dump() for event in events], f, indent=2)
+
+    @staticmethod
+    def deserialize(filename: str = "data/scrapedevents.json") -> list[Event]:
+        with open(filename, "r") as f:
+            data = json.load(f)
+        events = [Event.model_validate(event) for event in data]
+        return events
+
 
 class EventExtracter:
     _extract_instructions = """
@@ -56,33 +68,12 @@ class EventExtracter:
             assert events_in_chunk is not None and isinstance(events_in_chunk, Events)
             return events_in_chunk.events
 
+        # TODO: only processing first 5 chunks
         tasks = [process_chunk(chunk) for chunk in chunks[0:5]]
         results = await asyncio.gather(*tasks)
 
         net_events = [event for result in results for event in result]
         return net_events
-
-        # for chunk in chunks[:5]:
-        #     print(f"chunk: {chunk}")
-        #     events_in_chunk = self.llm.invoke(
-        #         [
-        #             SystemMessage(
-        #                 content=EventExtracter._extract_instructions.format(
-        #                     context=chunk
-        #                 )
-        #             )
-        #         ],
-        #     )
-
-        #     assert events_in_chunk is not None and isinstance(events_in_chunk, Events)
-        #     print("Events:")
-        #     for event in events_in_chunk.events:
-        #         print(event)
-        #     if events_in_chunk.events:
-        #         net_events += events_in_chunk.events
-        #     print("\n")
-
-        # return net_events
 
 
 def scrape_website(city: str) -> str:

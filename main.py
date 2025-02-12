@@ -97,6 +97,7 @@ async def main():
     # Rank events based on user interests
     logger.info("Ranking events")
     if flags.rank:
+        # TODO: make this async for speed
         ranked_events = EventRanker().rank_events(events, user_info["interests"])
         Events.serialize(ranked_events, filename="data/ranked_events.json")
     else:

@@ -55,7 +55,7 @@ if flags.extract:
     try:
         # Check if running inside an existing event loop (Jupyter)
         loop = asyncio.get_running_loop()
-        events = await future
+        events = await future  # noqa # type: ignore
     except RuntimeError:
         events = asyncio.run(future)
 else:

@@ -1,9 +1,10 @@
 from datetime import date
-from typing import Any
+from typing import Any, Optional
 
 from langchain_core.messages import SystemMessage
 from langchain_openai import ChatOpenAI
-from pydantic import BaseModel
+from loguru import logger
+from pydantic import BaseModel, ValidationError
 
 
 class DateRange(BaseModel):
@@ -57,15 +58,21 @@ class DateExtracter:
         base_llm = ChatOpenAI(model=model_name)
         self.llm = base_llm.with_structured_output(DateRange)
 
-    def get_date_range(self, date_str: str) -> DateRange:
-        date_range = self.llm.invoke(
-            [
-                SystemMessage(
-                    content=DateExtracter._extract_instructions.format(
-                        date_str=date_str
+    async def get_date_range(self, date_str: str) -> Optional[DateRange]:
+        try:
+            date_range = await self.llm.ainvoke(
+                [
+                    SystemMessage(
+                        content=DateExtracter._extract_instructions.format(
+                            date_str=date_str
+                        )
                     )
-                )
-            ]
-        )
-        assert isinstance(date_range, DateRange)
+                ]
+            )
+            assert isinstance(date_range, DateRange)
+        except ValidationError as e:
+            logger.error(f"Error: Invalid input: {date_str}")
+            logger.error(f"Error: {e}")
+            return None
+
         return date_range

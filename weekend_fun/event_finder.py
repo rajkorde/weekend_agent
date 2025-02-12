@@ -7,6 +7,7 @@ from typing import List, Optional
 import requests
 from langchain_core.messages import SystemMessage
 from langchain_openai import ChatOpenAI
+from loguru import logger
 from pydantic import BaseModel, Field
 
 from weekend_fun.date_extractor import DateExtracter
@@ -68,8 +69,7 @@ class EventExtracter:
             assert events_in_chunk is not None and isinstance(events_in_chunk, Events)
             return events_in_chunk.events
 
-        # TODO: only processing first 5 chunks
-        tasks = [process_chunk(chunk) for chunk in chunks[0:5]]
+        tasks = [process_chunk(chunk) for chunk in chunks]
         results = await asyncio.gather(*tasks)
 
         net_events = [event for result in results for event in result]
@@ -85,14 +85,14 @@ def scrape_website(city: str) -> str:
 def _get_urls_for_city(city: str) -> List[str]:
     """Get the URLs for the specified city from config.json."""
     try:
-        with open("data/config.json", "r") as f:
+        with open("config/config.json", "r") as f:
             config = json.load(f)
             return config[city]
     except FileNotFoundError:
-        print("Error: data/config.json file not found")
+        logger.error("Error: config/config.json file not found")
         return []
     except json.JSONDecodeError:
-        print("Error: Invalid JSON format in data/config.json")
+        logger.error("Error: Invalid JSON format in config/config.json")
         return []
 
 
@@ -112,16 +112,19 @@ def _scrape_and_convert_to_md(url: str) -> str:
     return result
 
 
-def filter_weekend_events(events: list[Event], sat: date, sun: date) -> List[Event]:
+async def filter_weekend_events(
+    events: list[Event], sat: date, sun: date
+) -> List[Event]:
     date_extractor = DateExtracter()
 
+    tasks = [date_extractor.get_date_range(event.date) for event in events]
+    dates = await asyncio.gather(*tasks)
+
     filtered_events = []
-    for event in events:
-        date_str = event.date
-        dates = date_extractor.get_date_range(date_str)
-        if (
-            dates.start_date <= sat <= dates.end_date
-            or dates.start_date <= sun <= dates.end_date
+    for event, event_date in zip(events, dates):
+        if event_date and (
+            event_date.start_date <= sat <= event_date.end_date
+            or event_date.start_date <= sun <= event_date.end_date
         ):
             filtered_events.append(event)
 

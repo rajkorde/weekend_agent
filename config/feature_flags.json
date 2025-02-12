@@ -1,9 +1,9 @@
 {
   "scrape": false,
   "extract": false,
-  "filter": false,
-  "rank": false,
-  "email": false,
+  "filter": true,
+  "rank": true,
+  "email": true,
   "save": true,
-  "use_test_events": true
+  "use_test_events": false
 }

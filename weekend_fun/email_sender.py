@@ -32,7 +32,7 @@ def _create_email_content(events: list[Event]) -> str:
     <p>Here are some events we think you'll enjoy:</p>
     """
 
-    for event in events[:5]:  # Send top 5 events
+    for event in events:
         html += f"""
         <div style="margin-bottom: 20px;">
             <h2>{event.name}</h2>

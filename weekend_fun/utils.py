@@ -28,7 +28,7 @@ def get_weekend_dates() -> tuple[date, date]:
     return saturday, sunday
 
 
-def write_to_file(text: str, file_path: str = "scraped.md") -> None:
+def write_to_file(text: str, file_path: str) -> None:
     dir_path = os.path.dirname(file_path)
     os.makedirs(dir_path, exist_ok=True)
     try:
@@ -38,7 +38,7 @@ def write_to_file(text: str, file_path: str = "scraped.md") -> None:
         print(f"Error writing to file: {e}")
 
 
-def read_from_file(file_path: str = "scraped.md") -> str:
+def read_from_file(file_path: str) -> str:
     content = ""
     try:
         with open(file_path, "r", encoding="utf-8") as file:

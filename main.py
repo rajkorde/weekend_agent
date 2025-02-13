@@ -43,7 +43,7 @@ async def main():
         text = read_from_file("data/scraped.md")
     logger.info(f"Scraped length: {len(text)}")
     if flags.scrape and flags.save:
-        write_to_file(text)
+        write_to_file(text, "data/scraped.md")
 
     # Chunk text
     logger.info("Chunking text")

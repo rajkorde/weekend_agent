@@ -1,4 +1,5 @@
 import asyncio
+import os
 from datetime import datetime
 
 from dotenv import load_dotenv
@@ -25,6 +26,7 @@ from weekend_fun.utils import (
 
 
 async def main():
+    print(os.environ)
     # Setup
     logger.info("Reading in user info and feature flags")
     user_info = get_user_info()

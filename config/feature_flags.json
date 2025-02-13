@@ -4,7 +4,7 @@
   "filter": true,
   "rank": true,
   "email": true,
-  "save": true,
+  "save": false,
   "use_test_events": false,
   "use_docker": true
 }

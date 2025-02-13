@@ -1,0 +1,8 @@
+version: "3.8"
+services:
+  app:
+    image: weekend_agent:latest
+    container_name: weekend_agent
+    build: .
+    env_file:
+      - .env

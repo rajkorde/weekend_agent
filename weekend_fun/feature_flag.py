@@ -13,6 +13,7 @@ class FeatureFlags(BaseModel):
     email: bool
     save: bool
     use_test_events: bool
+    use_docker: bool
 
     @classmethod
     def read_feature_flags(

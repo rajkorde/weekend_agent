@@ -26,10 +26,12 @@ from weekend_fun.utils import (
 
 async def main():
     # Setup
-    assert load_dotenv()
     logger.info("Reading in user info and feature flags")
     user_info = get_user_info()
     flags = FeatureFlags.read_feature_flags()
+
+    if not flags.use_docker:
+        assert load_dotenv()
 
     # Scrape website
     logger.info("Scraping websites")

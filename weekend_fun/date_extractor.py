@@ -1,4 +1,5 @@
 from datetime import date
+from functools import lru_cache
 from typing import Any, Optional
 
 from langchain_core.messages import SystemMessage
@@ -58,6 +59,7 @@ class DateExtracter:
         base_llm = ChatOpenAI(model=model_name)
         self.llm = base_llm.with_structured_output(DateRange)
 
+    @lru_cache(maxsize=256)
     async def get_date_range(self, date_str: str) -> Optional[DateRange]:
         try:
             date_range = await self.llm.ainvoke(

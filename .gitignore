@@ -170,8 +170,7 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-temp
+*temp*
 data
 logs/
 
-temp

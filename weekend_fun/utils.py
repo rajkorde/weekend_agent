@@ -1,3 +1,4 @@
+import os
 import re
 from datetime import date, datetime, timedelta
 
@@ -28,6 +29,8 @@ def get_weekend_dates() -> tuple[date, date]:
 
 
 def write_to_file(text: str, file_path: str = "scraped.md") -> None:
+    dir_path = os.path.dirname(file_path)
+    os.makedirs(dir_path, exist_ok=True)
     try:
         with open(file_path, "w", encoding="utf-8") as file:
             file.write(text)

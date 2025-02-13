@@ -26,6 +26,8 @@ class Events(BaseModel):
 
     @staticmethod
     def serialize(events: list[Event], filename: str = "data/scrapedevents.json"):
+        dir_path = os.path.dirname(filename)
+        os.makedirs(dir_path, exist_ok=True)
         with open(filename, "w") as f:
             json.dump([event.model_dump() for event in events], f, indent=2)
 

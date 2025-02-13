@@ -1,3 +1,5 @@
+import asyncio
+
 from langchain_core.messages import SystemMessage
 from langchain_openai import ChatOpenAI
 
@@ -8,16 +10,18 @@ class EventRanker:
     def __init__(self):
         self.llm = ChatOpenAI(temperature=0.0, model="gpt-4o-mini", max_retries=3)
 
-    def rank_events(self, events: list[Event], interests: list[str]) -> list[Event]:
-        events_and_scores = []
-        for event in events:
-            score = self._calculate_interest_score(event, interests)
-            events_and_scores.append((event, score))
-
+    async def rank_events(
+        self, events: list[Event], interests: list[str]
+    ) -> list[Event]:
+        tasks = [self._calculate_interest_score(event, interests) for event in events]
+        scores = await asyncio.gather(*tasks)
+        events_and_scores = [(events[i], scores[i]) for i in range(len(events))]
         ranked_events = sorted(events_and_scores, key=lambda x: x[1], reverse=True)
         return [ranked_event[0] for ranked_event in ranked_events]
 
-    def _calculate_interest_score(self, event: Event, interests: list[str]) -> float:
+    async def _calculate_interest_score(
+        self, event: Event, interests: list[str]
+    ) -> float:
         """Calculate an interest score for an event based on user interests."""
 
         _ranker_instructions = f"""
@@ -29,7 +33,7 @@ class EventRanker:
         Provide only the numerical score and nothing else.
         """
 
-        response = self.llm.invoke(
+        response = await self.llm.ainvoke(
             [SystemMessage(content=_ranker_instructions.format(event=event))]
         )
 

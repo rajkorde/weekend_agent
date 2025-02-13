@@ -99,9 +99,18 @@ async def main():
     # Rank events based on user interests
     logger.info("Ranking events")
     if flags.rank:
-        # TODO: make this async for speed
-        ranked_events = EventRanker().rank_events(events, user_info["interests"])
-        Events.serialize(ranked_events, filename="data/ranked_events.json")
+        try:
+            # Check if running inside an existing event loop (Jupyter)
+            asyncio.get_running_loop()
+            ranked_events = await EventRanker().rank_events(
+                events, user_info["interests"]
+            )  # noqa # type: ignore
+        except RuntimeError:
+            ranked_events = asyncio.run(
+                EventRanker().rank_events(events, user_info["interests"])
+            )
+        if flags.save:
+            Events.serialize(ranked_events, filename="data/ranked_events.json")
     else:
         ranked_events = Events.deserialize(filename="data/ranked_events.json")
     # print(ranked_events)

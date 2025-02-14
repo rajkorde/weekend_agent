@@ -1,12 +1,12 @@
 import os
 
 from sendgrid import SendGridAPIClient  # type: ignore
-from sendgrid.helpers.mail import Mail  # type: ignore
+from sendgrid.helpers.mail import Mail, To  # type: ignore
 
 from weekend_fun.event_finder import Event
 
 
-def send_event_email(to_email: str, events: list[Event]) -> None:
+def send_event_email(to_emails: list[str], events: list[Event]) -> None:
     """Send an email with event recommendations."""
 
     html_content = _create_email_content(events)
@@ -15,7 +15,7 @@ def send_event_email(to_email: str, events: list[Event]) -> None:
     try:
         message = Mail(
             from_email=from_email,
-            to_emails=to_email,
+            to_emails=[To(email) for email in to_emails],
             subject="Your Weekend Event Recommendations",
             html_content=html_content,
         )

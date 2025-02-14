@@ -120,7 +120,7 @@ async def main():
     # Send email with recommendations
     logger.info("Sending email")
     if flags.email:
-        send_event_email(to_email=user_info["email"], events=ranked_events)
+        send_event_email(to_emails=user_info["email"], events=ranked_events)
         logger.info("Email sent")
     else:
         for event in ranked_events:

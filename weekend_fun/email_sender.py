@@ -11,7 +11,8 @@ def send_event_email(to_emails: list[str], events: list[Event]) -> None:
 
     html_content = _create_email_content(events)
     from_email = os.getenv("FROM_EMAIL")
-
+    # TODO: sending email to receipients from .env file. Ideally, should be from a db
+    to_emails = os.getenv("TO_EMAILS").split(",")
     try:
         message = Mail(
             from_email=from_email,

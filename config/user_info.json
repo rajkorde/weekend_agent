@@ -1,6 +1,6 @@
 {
   "name": "Rajesh Korde",
   "city": "Seattle, WA",
-  "email": ["rajesh.korde@gmail.com", "deb.glowitz@gmail.com"],
-  "interests": ["music", "movies", "walks"]
+  "email": ["foo@example.com", "bar@example.com"],
+  "interests": ["plays", "talks", "music", "movies", "walks"]
 }

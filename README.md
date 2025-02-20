@@ -70,8 +70,9 @@ The application will:
    - City
    - Email
    - Interests
+   Currently, it just reads from a config file.
 2. Find events in your city
-3. Filter for upcoming weekend events
+3. Filter for upcoming weekend events using AI
 4. Rank events based on your interests using AI
 5. Send you an email with the top recommendations
 
@@ -93,28 +94,12 @@ tests/
 main.py                  # Application entry point
 ```
 
-## Development
-
-### Running Tests
-
-```bash
-poetry run pytest
-```
-
-### Code Style
-
-The project follows PEP 8 style guidelines. Format your code using:
-
-```bash
-poetry run black .
-```
-
 ## Deployment
 
-The application is configured to run on Replit:
+The application is configured to run on Railway:
 
-1. Import the repository to Replit
-2. Add your API keys to Replit's Secrets tab:
+1. Import the repository to Railway
+2. Add your API keys to Railway's Secrets tab:
    - `OPENAI_API_KEY`
    - `SENDGRID_API_KEY`
    - `FROM_EMAIL`
@@ -137,4 +122,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - OpenAI for providing GPT models
 - SendGrid for email services
 - Jina AI for web scraping capabilities
+- Railway for deployment
 - Event websites for providing event data
+

@@ -1,0 +1,10 @@
+{
+  "scrape": true,
+  "extract": true,
+  "filter": true,
+  "rank": true,
+  "email": true,
+  "save": true,
+  "use_test_events": false,
+  "use_docker": true
+}

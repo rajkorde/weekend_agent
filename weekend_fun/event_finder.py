@@ -102,12 +102,15 @@ def _scrape_and_convert_to_md(url: str) -> str:
     jina_url = "https://r.jina.ai/"
 
     new_url = jina_url + url
-    response = requests.get(
-        new_url, {"Authorization": f"Bearer {os.getenv('JINA_API_KEY')}"}
-    )
+    headers = {
+        "Authorization": f"Bearer {os.getenv('JINA_API_KEY')}",
+        "X-Return-Format": "markdown",
+    }
+    response = requests.get(new_url, headers=headers)
 
     if response.status_code == 200:
-        result = response.content.decode("utf-8", errors="ignore")
+        # print(f"{response.text}")
+        result = response.text
     else:
         print(f"Error: {response.status_code} - {response.text}")
         result = ""
